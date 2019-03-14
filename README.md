@@ -1,3 +1,3 @@
 # hello-world
-Python practise repository
-Started working towards data science
+Python Data Sciene projects/MOOC Projects
+
